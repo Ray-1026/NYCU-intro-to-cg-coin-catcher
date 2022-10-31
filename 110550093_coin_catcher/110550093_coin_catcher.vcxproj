@@ -24,6 +24,7 @@
     <ProjectGuid>{5de49857-4585-4318-805a-6c682549be87}</ProjectGuid>
     <RootNamespace>My110550093coincatcher</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>coin_catcher</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
